@@ -1,0 +1,14 @@
+div#container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+    
+    
+}
+
+img {
+
+border: 10px solid green;
+border-radius: 8px;
+}
